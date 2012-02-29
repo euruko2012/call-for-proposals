@@ -2,7 +2,7 @@
 
 Building an API can be hard, but thanks to my mistakes: YOU TOO can write a sensible easy to maintain HTTP/JSON API for your product.
 
-I don't have all the answers, but I've spent the last half-year writing 2 interconnected APIs. We've re-written some parts, thrown some away, and turned others into open source libraries. I've been thankful for some decisions, and cursed for others.
+I don't have all the answers, but I've spent the last 9 months writing 2 interconnected APIs. We've re-written some parts, thrown some away, and turned others into open source libraries. I've been thankful for some decisions, and cursed for others.
 
 Altogether we've learned a lot.
 
