@@ -1,11 +1,13 @@
 # My talk title
+
 My talk description
 
+
 ## My name
-![Profile
-picture](https://github.com/euruko2012/call-for-proposals/raw/master/example/profile_picture.jpg)
 
 My bio
+
+![Profile picture](https://github.com/euruko2012/call-for-proposals/raw/master/example/profile_picture.jpg)
 
 - [My website](http://www.example.org)
 - [My twitter](https://twitter.com/#!/twitter_handle)
