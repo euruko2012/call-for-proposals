@@ -1,7 +1,8 @@
-# My talk title
+# CoffeeScript for the Rubyist
 
-My talk description
+CoffeeScript is taking the world, and particularly the Rails eco system, by storm. This little language has provided an almost Ruby like abstraction onto of JavaScript. CoffeeScript is trying to make writing  front end code as much fun as Ruby makes writing backend code.
 
+In this talk we start with the basic concepts of CoffeeScript and move on to the more powerful and fun features of the language. While we're looking at CoffeeScript we'll see how it relates to the Ruby code we write everyday. What do Ruby 1.9 lambdas and CoffeeScript functions have in common? Which of the two languages supports splats, default arguments, and ranges? The answers may surprise you.
 
 ## My name
 
