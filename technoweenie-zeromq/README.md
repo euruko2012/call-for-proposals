@@ -13,7 +13,7 @@ I'm a developer at GitHub, a self-diagnosed REST nerd, bleeding edge DB
 enthusiast, with an active OSS profile.  Recent favorites include: Faraday
 (ruby), Chain Gang (node.js), LevelDB ruby bindings (c++), etc. 
 
-![Profile picture](/raw/master/technoweenie-zeromq/profile_picture.jpg)
+![Profile picture](/technoweenie/call-for-proposals/raw/master/technoweenie-zeromq/profile_picture.jpg)
 
 - [My website](http://techno-weenie.net)
 - [@technoweenie](https://twitter.com/technoweenie)
