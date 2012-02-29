@@ -4,7 +4,7 @@ So, you are interested in giving a talk at the most awesome Ruby
 conference in Europe?
 And what better way to submit a talk proposal than via GitHub!
 
-## Here is what do to
+## Here is what to do
 
 1. Fork this repository
 2. Copy the sample folder `example/` to `your_name-talk_name`
