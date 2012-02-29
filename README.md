@@ -2,7 +2,7 @@
 
 So, you are interested in giving a talk at the most awesome Ruby
 conference in Europe?
-We couldn't think of any better way to do this than using GitHub.
+And what better way to submit a talk proposal than via GitHub!
 
 ## Here is what do to
 
@@ -17,5 +17,4 @@ We couldn't think of any better way to do this than using GitHub.
 You can add any type of assets to support your proposal inside your
 folder.
 When a talk gets accepted we will press the lovely green merge button.
-
 
