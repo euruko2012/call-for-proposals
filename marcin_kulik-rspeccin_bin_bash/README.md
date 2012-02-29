@@ -1,6 +1,7 @@
 # RSpeccin' #!/bin/bash
 
-In this talk I'm gonna present how you can spec your non-ruby programs. Showing real (r)specs for bitpocket, rsync based sync tool written as a bash script would be one part of the story, discussion of possible techniques to use when testing non-ruby scripts would be the other part of the story.
+In this talk I'm gonna present how you can spec your non-ruby programs. Showing
+real (r)specs for [bitpocket](https://github.com/sickill/bitpocket), rsync based sync tool written as a bash script would be one part of the story, discussion of possible techniques to use when testing non-ruby scripts would be the other part of the story.
 
 This topic wasn't covered by many speakers on Ruby conferences and I believe it would be interesting to listen about such a combo.
 
