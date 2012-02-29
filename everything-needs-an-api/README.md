@@ -1,8 +1,10 @@
 # Everything needs an API.
 
-Building an API can be hard, but thanks to all my mistakes: YOU TOO, can write a sensible and easy to maintain HTTP/JSON API for your product.
+Building an API can be hard, but thanks to my mistakes: YOU TOO can write a sensible easy to maintain HTTP/JSON API for your product.
 
-I don't have all the answers, but I've spent the last half-year writing 2 interconnected APIs. We've re-written some parts, thrown some away, and turned others into open source libraries. I've been thankful for some decisions, and cursed for others. Altogether we've learned a lot.
+I don't have all the answers, but I've spent the last half-year writing 2 interconnected APIs. We've re-written some parts, thrown some away, and turned others into open source libraries. I've been thankful for some decisions, and cursed for others.
+
+Altogether we've learned a lot.
 
 Let's review the process we took, and how I would do it differently next time.
 
