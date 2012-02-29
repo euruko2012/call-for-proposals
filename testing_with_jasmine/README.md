@@ -1,6 +1,10 @@
-# My talk title
+# Testing your JavaScript with Jasmine
 
-My talk description
+As Ruby/Rails developers we love to test our applications, we thrive on seeing those green dots and 100% test coverage of our Ruby code, but how well tested is your JavaScript or CoffeeScript code? I have a feeling that the answer to that question is a sheepish green and rosy cheeks. Well, let's change that!
+
+Let's spend some time seeing how easy it can be to set up Jasmine, a RSpec-like testing framework for JavaScript/CoffeeScript, in your Ruby/Rails application. We'll learn how to test that our jQuery or Backbone code is doing what it supposed to. It's really not as hard as you think it might be.
+
+By the end of this talk you should no longer fear testing your JavaScript. You will embrace it. It'll mean more of those green dots and true 100% test coverage!
 
 
 ## My name
