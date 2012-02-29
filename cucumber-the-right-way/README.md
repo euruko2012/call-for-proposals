@@ -9,7 +9,7 @@ I am a 23 year old programmer hailing from Norfolk, Virginia, USA. I work at a R
 
 I hold a BS in Electrical Engineering and a MS in Theoretical Mathematics. My hobbies include programming, traveling, and learning languages.
 
-![Profile picture](https://github.com/zsiec/call-for-proposals/tree/master/cucumber-the-right-way/profile_picture.png)
+![Profile picture](https://github.com/zsiec/call-for-proposals/raw/master/cucumber-the-right-way/profile_picture.png)
 
 - [My website](http://www.wearetitans.net)
 - [My twitter](https://twitter.com/#!/zsiec)
