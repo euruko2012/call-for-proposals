@@ -61,3 +61,4 @@ whisk(e)y but will accept good wine in a pinch.
 - [Poisoning Rubinius: The \_why and how](http://confreaks.com/videos/454-rubyconf2010-poisoning-rubinius-the-_why-and-how)
 - [The Rubinius Virtual Machine at Galois, Inc](http://corp.galois.com/blog/2010/12/2/galois-video-the-rubinius-virtual-machine.html)
 - [Nikita: The Ruby Secret Agent](http://confreaks.com/videos/691-rubyconf2011-nikita-the-ruby-secret-agent)
+- [What does my Ruby do?](http://rubyconf2008.confreaks.com/what-does-my-ruby-do.html)
