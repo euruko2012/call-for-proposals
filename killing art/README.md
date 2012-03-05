@@ -8,11 +8,11 @@ Go forth and kill art.
 
 ## My name
 
-Joseph Wilk is a coder, coder, a tester and a teacher. 
+Joseph Wilk is a coder, a tester and a teacher. 
 He suffers from test obsession and has given up hope of any treatment that does not involve high voltages. 
 He works as a senior developer at a startup Songkick helping shape the future of live music.
 
-![Profile picture](https://github.com/euruko2012/call-for-proposals/raw/master/someone is wrong/profile_picture.jpg)
+![Profile picture](https://github.com/josephwilk/call-for-proposals/raw/master/someone is wrong/profile_picture.jpg)
 
 - [My website](http://blog.josephwilk.net)
 - [My twitter](https://twitter.com/#!/josephwilk)
