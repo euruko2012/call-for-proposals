@@ -1,6 +1,5 @@
 # Rake It In
 
-My talk description
 Rake is the build tool of choice for Rubyists but how does it measure up outside the Ruby ecosystem?
 
 Is the crazy idea of a programming language for your build scripts any good in the “real” world of curly braces?
@@ -27,3 +26,4 @@ I'm lead developer of [rutema](http://github.com/damphyr/rutema), a test executi
 
 - [Ampelofilosofies](http://www.ampelofilosofies.gr)
 - [@arcandros](https://twitter.com/#!/arcandros)
+- [Video of a lightning talk I gave at GTAC 2010](http://www.youtube.com/watch?feature=player_detailpage&v=N6DSAO9E7DM#t=1193s)
