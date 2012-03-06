@@ -25,7 +25,7 @@ The MagLev architecture consists of the following:
 
 I have been implementing scalable, highly transactional, financial systems using Object Technology since 1994. My favorite languages include Smalltalk, Ruby, Java, Python and Lisp. I am co-founder of Lautus Solutions. We have developed a product, named Tau, a Financial Platform for trading of complex financial products and instruments, using object technology. Our clients include large financial companies in South Africa.
 
-![Profile picture](https://github.com/rle/call-for-proposals/blob/master/Rudi_Engelbrecht-Exploring_MagLev_A_Ruby_Object_Database/profile_picture.jpg)
+![Profile picture](http://github.com/rle/call-for-proposals/blob/master/Rudi_Engelbrecht-Exploring_MagLev_A_Ruby_Object_Database/profile_picture.jpg)
 
 - [My website](http://www.rudiengelbrecht.com)
 - [My twitter](https://twitter.com/#!/rudiengelbrecht)
