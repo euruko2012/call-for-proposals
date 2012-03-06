@@ -1,4 +1,4 @@
-# Lightning talk: Semaphore
+# Lightning talk: [Semaphore](https://semaphoreapp.com)
 
 Assuming it's 5 minutes:
 
@@ -10,7 +10,9 @@ important and how it's a pain on commercial projects
 
 ## Marko Anastasov
 
-Marko is a programmer and co-founder of [Rendered Text](http://renderedtext.com) and the Ruby user group of Serbia. Amsterdam Ruby conferences are his favorite.
+Marko is a programmer and co-founder of [Rendered Text](http://renderedtext.com) and Serbian Ruby user group.
+
+So far Amsterdam Ruby conferences are his favorite.
 
 
 ![Profile picture](http://renderedtext.com/images/marko.png)
