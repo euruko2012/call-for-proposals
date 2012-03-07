@@ -2,7 +2,7 @@
 or
 # What's wrong with rails
 or 
-# No that rails is over, what do we do next?
+# Now that rails is over, what do we do next?
 or
 # It turns out rails doesn't save you from legacy code.
 or
