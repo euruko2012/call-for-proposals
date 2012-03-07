@@ -24,7 +24,8 @@ This can be a talk or a panel that discusses issues revolving around things that
 
 Don't front, you know who I am.
 
-![Profile picture](https://github.com/stevenbristol/call-for-proposals/blob/master/steven_bristol-why_dhh_is_often_late_to_the_party/profile_picture.JPG)
+![Profile picture](https://github.com/stevenbristol/call-for-proposals/raw/master/steven_bristol-why_dhh_is_often_late_to_the_party/profile_picture.JPG)
+
 
 - [My website](http://lesseverything.com)
 - [My twitter](https://twitter.com/#!/stevenbristol)
