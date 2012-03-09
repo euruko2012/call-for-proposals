@@ -8,7 +8,7 @@ app's fast; but it can make growing app's slow, testing becomes a pain
 point. Taking our applications beyond the CRUD requires more effort,
 more thought.
 
-How do we grow beyond the conventions and create object orientated,
+How do we grow beyond the conventions and create object oriented,
 service focused applications in Ruby. Where do we divide the line
 between speed and clean design. How much should we decouple from Rails?
 Will we reach a point were Rails is surpassed?
