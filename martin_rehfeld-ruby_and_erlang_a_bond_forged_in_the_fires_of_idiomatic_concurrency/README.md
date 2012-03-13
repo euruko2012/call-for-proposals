@@ -31,4 +31,4 @@ excellent use.
 - [My website](http://coderwall.com/martinrehfeld)
 - [My twitter](https://twitter.com/#!/klickmich)
 - [Past talk slides](http://www.slideshare.net/martin.rehfeld)
-- [Past talk video](http://vimeo.com/25592244) ([slides used in video](http://scotrug-20110616.assets.io/))
+- [Past talk video](http://vimeo.com/25592244) ([slides used in video](http://scotrug-20110616.assets.io/) & [speakerrate](http://speakerrate.com/talks/7771))
