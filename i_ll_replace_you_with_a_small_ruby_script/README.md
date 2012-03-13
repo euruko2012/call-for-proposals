@@ -22,7 +22,7 @@ Co-founder and CEO of Technology Astronauts, where we strive to bring software
 closer to engineering. 
 
 
-![Profile picture](/raw/master/i_ll_replace_you_with_a_small_ruby_script/profile_picture.jpg)
+![Profile picture](https://github.com/kschiess/call-for-proposals/raw/master/i_ll_replace_you_with_a_small_ruby_script/profile_picture.jpg)
 
 - [Blog](http://blog.absurd.li)
 - [Twitter](https://twitter.com/#!/kasparschiess)
