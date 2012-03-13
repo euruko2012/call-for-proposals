@@ -14,7 +14,7 @@ distributed architecture and agile methodologies.
 I’ve worked across a wide range of technologies 
 (Java, Ruby, Javascript, Node.js) applying them to 
 various industries (bank, turism, real estate). 
-In 2011 I held a speach about mobile web development with Sencha Touch 
+In 2011 I held a talk about mobile web development with Sencha Touch 
 and Ruby at the [WhyMCA](http://www.whymca.org) and 
 [RubyDay.it](http://rubyday.it) conferences. I'm also one of the
 organizers of the [RubyDay.it](http://rubyday.it) conference.
