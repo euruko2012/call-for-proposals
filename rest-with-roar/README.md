@@ -1,0 +1,5 @@
+# Practical REST With Roar!
+
+REST is an architectural style for distributed hypermedia systems. Awesome! Eh, did you just say "distributed hypermedia"? Why not study the key concepts of hypermedia along with real examples? Let's build a simple RESTful client/services setup with Ruby and the roar gem. While we're learning about representations and API discovery in practice we can confront other approaches as found in Rails, Restfulie or HTTParty - and take the best from every world to build rock-solid software systems.
+
+Nick Sutterer is proud to be a member of the Ruby open source community. His Cells and Apotomo projects have been bringing increased view modularity and event-driven programming to Rails for years. He has enjoyed attending, and speaking at, Ruby conferences around the world. Buy him a beer sometime, and with very little prompting, he will tell you why there should be no such thing as a double-render error, why you should not confuse your models with your resources, and how to play a mean bass in a punk rock band.
