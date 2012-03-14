@@ -19,7 +19,7 @@ glue to accomplish this one, so I'm certain it will be exciting!
 
 Having moved to Berlin a few years back, Lars Gierth enjoys one of the most
 diverse and exciting hacker cultures Europe has to offer. He is passionate
-about dentralized web services as well as grass-roots media and feels that
+about decentralized web services as well as grass-roots media and feels that
 something is missing if he didn't code for a few days. Lars works at the
 SoundCloud Base in Berlin.
 
