@@ -1,25 +1,22 @@
-# Using ruby for testing BASH - DTF / RVM
+# Using Ruby for testing BASH - DTF / RVM
 
-There is a lot of usage of ruby in any web frameworks,
-but ruby is not only suitable to build way more than internet.
+There is Ruby in a lot of web frameworks, but Ruby is suitable to build way more than web apps.
 
-With Ruby we can do anything we imagine and I imagined the perfect testing framework (DTF).
-
-Able to test anything you want:
+So I imagined the perfect testing framework (DTF) to test anything you want:
 
 - any language that can load interactive interpreter
 - real scripts with tests in form of comments
-- plugins for: interpreter, input, output, tests
+- plugins for interpreter, input, output and tests
 
-Thanks to ruby it was possible to write plugable core in less than 200 lines,
-a working framework including tests fitted in less then 1000 lines.
+Ruby made it possible to write a pluggable core in less than 200 lines
+and a working framework, including tests, fitted in less then 1000 lines.
 
-The talk will include talk on DTF code, the simple solutions that make it useful and good tool.
-It will cover also uses for DTF, mostly on RVM examples.
-DTF also gives support for testing shell projects using Travis which can be shortly described too.
+The talk will include specifics on DTF code and how it is a useful and good tool.
+Examples will be provided but mostly with RVM examples.
 
-And finally the talk will cover details of RVM usage, and everyone knows RVM,
-but RVM has so many new and unused features, that can make life easier but are not properly advertised.
+If there is time I can go into details on using DTF for testing shell projects with Travis CI.
+
+Finally I will talk about new and unused tricks for making life easier with RVM that are not properly advertised.
 
 ## Michal Papis
 
