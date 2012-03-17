@@ -10,7 +10,7 @@ Along the way I'll also cover some of the lessons learned from scaling our team 
 
 James Stewart is a software developer based in London with his wife and two small kids. Having been building things for the web since the mid-90s, he was technical lead for Alpha.gov.uk and now works as a technical architect for the Government Digital Service helping shape a new open-source platform for the UK Government.
 
-![Profile picture](https://github.com/jystewart/call-for-proposals/raw/master/example/profile_picture.jpg)
+![Profile picture](https://github.com/jystewart/call-for-proposals/raw/master/rebuilding_government/profile_picture.jpg)
 
 - [Blog](http://jystewart.net)
 - [Twitter](http://twitter.com/jystewart)
