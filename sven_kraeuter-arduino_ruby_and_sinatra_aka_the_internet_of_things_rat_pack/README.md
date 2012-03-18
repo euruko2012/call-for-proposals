@@ -1,6 +1,6 @@
 # Arduino, Ruby &amp; Sinatra - The Internet Of Things's Rat Pack
 
-Frank, Sammy &amp Dean were a great team known as the "Rat Pack". What's true for these fellows is also true for Sinatra, Ruby and Arduino: put them together for instant awesomeness!
+Frank, Sammy &amp; Dean were a great team known as the "Rat Pack". What's true for these fellows is also true for Sinatra, Ruby and Arduino: put them together for instant awesomeness!
 
 We all know and love Ruby, no Introduciotn necessary. Sinatra enables us to publish web services in the blink of an eye. Arduino is an Open Source (yeah!) Hardware (what?) Prototyping platform (huh?) that some of you may have heard of at last years Euruko's great introductory talk on the subject.
 
