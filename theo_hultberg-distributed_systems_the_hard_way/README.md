@@ -2,7 +2,9 @@
 
 I’ve learned how to build distributed systems the hard way; I’ve failed, and failed again. I’ve made many of the common mistakes and tried a few other things that turned out to be a disappointment. You shouldn't have to make those mistakes too. 
 
-In this talk I'll tell the story of how I built a system that processes hundreds of millions of messages per day and all the things I did wrong before I got it to work. I’ll also tell you what I did right, and the choices I don’t regret.
+In this talk I'll tell the story of how I built a system that processes hundreds of millions of messages per day and all the things I did wrong before I got it to work. I’ll also tell you what I did right, and the choices I don’t regret. 
+
+Spoiler: I will mention JRuby, a few times.
 
 
 ## Theo Hultberg
