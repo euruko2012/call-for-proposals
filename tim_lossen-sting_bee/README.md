@@ -35,4 +35,5 @@ projects like Superglobe or [Evercube](http://evercu.be).
 - [Past talk slides](http://www.slideshare.net/tim.lossen.de)
 - [More talk slides](http://speakerdeck.com/u/tlossen)
 - [Past talk video](http://vimeo.com/12610120)
+- [Speaking history](http://lanyrd.com/profile/tlossen/sessions/)
 
