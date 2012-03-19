@@ -2,6 +2,8 @@
 
 There is a huge movement in Ruby community going towards (or maybe getting back to) fast isolated unit tests. Using such approach may be a big success or a big fail for a project, depending on how well is it executed. Ok, so you decided that you want to try it and make your tests fast. What to do now?
 
+In this talk I will try to show you how to write fast tests, do not create brittle test suite, don't write useless integration tests and basically stay sane in the process.
+
 ## Piotr Sarnacki
 
 Ruby and rails programmer from Poland, [Rails core commiter](http://contributors.rubyonrails.org/contributors/piotr-sarnacki/commits), open source enthusiast.
