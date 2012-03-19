@@ -1,0 +1,24 @@
+The Tenth Fleet
+---------------
+
+It has become fashionable to bash "Large, Monolithic Rails Apps" as
+evil and obsolete. So you run out and tear your lovely program up 
+into pieces. Wait, now you have *five* problems!
+
+In this talk, I am going to debunk the above myth, and argue that
+monolithic apps work (and especially scale) extremely well -- you 
+just have to be smart and get the overall architecture right. I will
+present the "Fleet" pattern and explain how embracing (instead of 
+trying to eliminate) single points of failure can paradoxically 
+*improve* resilience and scalability.
+
+The Fleet architecture has evolved at 
+
+
+
+
+
+"Tenth Fleet has operational control over Navy information, computer, 
+cryptologic, and space forces."
+
+http://en.wikipedia.org/wiki/United_States_Tenth_Fleet
