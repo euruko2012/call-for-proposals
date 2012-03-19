@@ -1,6 +1,6 @@
 # We buried fixtures too soon
 
-Nothing is certain but death and taxes... and that we need data in our tests at some point. How to get it? Rails has a built in mechanism for populating database for tests called fixtures. We all know it, but don't use it... because ZOMG FACTORIES ARE BETTER, FIXTURES ARE DEAD! Orly? Maybe we just haven't seen all the potential and possibilities? Maybe.... fixtures are not dead after all? (Otherwise we are freaking necromancers!)
+Nothing is certain but death and taxes... and that we need data in our tests at some point. How to get it? Rails has a built in mechanism for populating database for tests called fixtures. We all know it, but don't use it... because ZOMG FACTORIES ARE BETTER, FIXTURES ARE DEAD! Is it so simple? Have you ever seen a project suffering from "Factories Madness"? Maybe.... fixtures are not dead after all? (Otherwise we are freaking necromancers!)
 
 In this talk we will be like Sherlock and Whatson tracking the roots of one of the most spectacular mistakes in rails history. And we will find a cure (and no the cure is not "more cowbell"). Beware!
 
