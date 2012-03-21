@@ -26,7 +26,7 @@ For the last nine months Martin has been busy shaping Wooga's next-generation
 game server putting his cross-language architecture and devops skills to
 excellent use.
 
-![Profile picture](https://github.com/martinrehfeld/call-for-proposals/raw/master/martin_rehfeld-ruby_and_erlang_a_bond_forged_in_the_fires_of_idiomatic_concurrency/profile_picture.jpg)
+![Profile picture](https://github.com/martinrehfeld/call-for-proposals/raw/master/martin_rehfeld-ruby_and_erlang_at_scale_with_style/profile_picture.jpg)
 
 - [My website](http://coderwall.com/martinrehfeld)
 - [My twitter](https://twitter.com/#!/klickmich)
