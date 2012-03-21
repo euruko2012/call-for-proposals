@@ -1,12 +1,12 @@
-# Ruby & erlang -- A bond forged in the fires of idiomatic concurrency
+# Ruby & Erlang -- At Scale with Style
 
 In the world of social gaming, the classic 2-tier of web application does not
 cut it anymore. We need new and better solutions.
 
 Follow along the evolution of game servers at Wooga and get an in-depth look
-into the next-generation backend putting the combined forces of erlang and Ruby
+into the next-generation backend putting the combined forces of Erlang and Ruby
 to work. Learn how scalability, reliability, concurrency control and beautiful
-code do not need to be mutually exclusive.
+ode do not need to be mutually exclusive.
 
 ## Why?
 
