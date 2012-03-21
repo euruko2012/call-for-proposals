@@ -30,7 +30,7 @@ he hopes will one day become the successor of the OpenSSL extension. At day, he 
 consultant and works on digital signature software or web apps.
   
 
-![Profile picture](https://github.com/emboss/call-for-proposals/raw/master/demistifying-password-security/profile_picture.png)
+![Profile picture](https://github.com/emboss/call-for-proposals/blob/2-demistifying-password-security/demistifying-password-security/profile_picture.png)
 
 - [My website](https://github.com/emboss)
 - [My twitter](https://twitter.com/#!/_emboss_)
