@@ -33,7 +33,7 @@ extension. He recently received a Ruby Association grant to kickstart his work o
 he would like to share the experience with you in this talk.
   
 
-![Profile picture](https://github.com/emboss/call-for-proposals/raw/master/krypt-the-next-level-of-ruby-cryptography/profile_picture.png)
+![Profile picture](https://en.gravatar.com/userimage/31410070/5917ab18325761bb28b73f8b72ae3c80.png?size=200)
 
 - [My website](https://github.com/emboss)
 - [My twitter](https://twitter.com/#!/_emboss_)
