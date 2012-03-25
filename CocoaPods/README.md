@@ -2,7 +2,7 @@
 
 But with a happy ending! :sparkles:
 
-This talk is about [CocoaPods](http://cocoapods.org/), “The best way to manage library dependencies in Objective-C projects”. As the tag-line implies, this is a package-manager for Objective-C libraries, promoting open-source libraries by providing a convenient way to work with them.
+This talk is about [CocoaPods](http://cocoapods.org/), “The best way to manage library dependencies in Objective-C projects”. As the tag-line implies, this is a package-manager for Objective-C libraries, written in Ruby, promoting open-source libraries by providing a convenient way to work with them.
 
 But besides a mere introduction to the project, and shameless plugs asking for more collaboration, this talk will also take a critical look at our usage of dependencies, when it has become so convenient as it has in our (Ruby) community.
 
