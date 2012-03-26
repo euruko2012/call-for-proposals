@@ -7,7 +7,11 @@ Ruby on Rails - Automated Project Setup Best Practices
 
 As Ruby on Rails projects become larger and more complex, more local and remote services are needed by the applications. New teammates, unequal distribution of knowledge, keeping the setup documentation up-to-date, running the test infrastructure and many more problems can easily get out of control.
 
-Find out, how to successfully manage the chaos using real world solutions. We want to share our project experiences using an automated setup, heaps of Ruby tools, complex deployment scripts and the use of cloud services to save time, money and lots of headache
+Find out, how to successfully manage the chaos using real world solutions. We want to share our project experiences using an automated setup, heaps of Ruby tools, complex deployment scripts and the use of cloud services to save time, money and lots of headache.
+
+Watch more in the video:
+- [Video](http://www.youtube.com/watch?v=64ZhL9rePvA)
+
 
 # Content
 
@@ -39,6 +43,7 @@ Find out, how to successfully manage the chaos using real world solutions. We wa
   - Simpler conﬁguration using cloud services
   - Easier to understand the application infrastructure
 
+
 ## Our names
 
 
@@ -63,4 +68,14 @@ Mateusz Sójka is a consultant and software developer at Infopark AG. He studied
 
 
 
-- [Video](http://www.youtube.com/watch?v=64ZhL9rePvA)
+## About Infopark
+
+**The next-generation websites**
+
+For almost two decades Infopark has been developing software for great websites.
+
+At an early stage Infopark has put focus on content management systems. In 2011 the „Infopark Cloud Express” became a big innovation and led to winning the “Best in Cloud-Award” of the magazine Computerwoche.
+
+Already in 2007 Infopark strategists had recognized that in the nearest future companies could no longer maintain software on their servers, but will only use internet application on demand provided by data centers. Cloud-computing is widely talked about today and Infopark is at the forefront of this development.
+
+Being a ﬁrst ECMS-manufacturer, Infopark offers an opportunity to operate websites professionally- within the Cloud. Today’s complex and dynamic websites have higher demands on scalability, reliability, and shortening of development times. Websites managed with “Infopark Cloud Express” fulﬁll all these requirements and concentrate on performance, usability, and security. These websites belong to a fully new generation and they are “ﬁt” for the future.
