@@ -15,7 +15,7 @@ The project is live at [cloudtracker.fm](http://cloudtracker.fm), the bug ridden
 
 An environmental engineer by training, a web developer by trade and a hacker by night. Building Rails based web applications for more than 20 years now. This year, for the first time, writing more javascript code than ruby code. Also been dipping my toes into python-land a bit. Recently wrote a LOGO program.
 
-![Profile picture](profile_picture.jpg)
+![Profile picture](../raw/master/jan_krutisch-building_a_collaborative_music_editor/profile_picture.jpg)
 
 - [My website](http://jan.krutisch.de)
 - [My twitter](https://twitter.com/halfbyte)
