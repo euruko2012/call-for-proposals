@@ -51,7 +51,7 @@ Watch more in the video:
 
 Falk Köppe is a consultant and project developer at Infopark AG. He ﬁnished his study of computer science at the Technical University of Berlin and can look back on a long-standing Ruby- and Ruby on Rails experience. He consults and teaches customer in complex web projects or workshops and also directly implements the requirements.
 
-![Profile picture](https://github.com/euruko2012/call-for-proposals/raw/master/falk_koeppe_mateusz_sojka_automated_project_setup/falk_profile_picture.jpg)
+![Profile picture](https://github.com/yagooar/call-for-proposals/raw/master/falk_koeppe_mateusz_sojka_automated_project_setup/falk_profile_picture.jpg)
 
 - [My website](http://www.jpberlin.de/f.koeppe/fpkgames/)
 - [My twitter](https://twitter.com/#!/fkoeppe)
@@ -61,7 +61,7 @@ Falk Köppe is a consultant and project developer at Infopark AG. He ﬁnished h
 
 Mateusz Sójka is a consultant and software developer at Infopark AG. He studied software engineering in sunny Barcelona. In his carrer he has been focusing on backend solutions and data integration in large Ruby on Rails projects. He thinks that programming is as much an art as it is a science. In his free time, he enjoys listening to loud music and drinking good German beer.
 
-![Profile picture](https://github.com/euruko2012/call-for-proposals/raw/master/falk_koeppe_mateusz_sojka_automated_project_setup/mateusz_profile_picture.jpg)
+![Profile picture](https://github.com/yagooar/call-for-proposals/raw/master/falk_koeppe_mateusz_sojka_automated_project_setup/mateusz_profile_picture.jpg)
 
 - [My website](http://www.infopark.de)
 - [My twitter](https://twitter.com/#!/yagooar)
