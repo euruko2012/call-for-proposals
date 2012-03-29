@@ -7,6 +7,10 @@ as a REST API in Ruby on Rails, and expose it as a web and a mobile app.
 We will see how to design and test REST APIs in a pure BDD style, using
 Cucumber and RSpec.
 
+I have given a similar talk at the Italian
+[Codemotion](http://www.codemotion.it), you can get the slides here:
+[Enter the App Era with Ruby on Rails](http://www.slideshare.net/matteocollina/enter-the-app-era-with-ruby-on-rails).
+
 ## Matteo Collina
 
 I’m a software engineer with a passion for coding, 
