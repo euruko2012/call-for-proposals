@@ -17,6 +17,5 @@ web interaction using edge CSS3 features and writing scalable code.
 ![Profile picture](https://img.skitch.com/20120329-gw7npyn16ypamuc57uyky9bxhw.png)
 
 - [My twitter](https://twitter.com/#!/iurevych)
-- [Past talk slides](http://www.example.org)
-- [Past talk video](http://www.example.org)
+- [Railsware](http://www.railsware.com)
 
