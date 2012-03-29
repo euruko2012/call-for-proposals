@@ -16,7 +16,7 @@ He spends weekdays in the Operations team @ http://www.wildfireapp.com
 
 See http://github.com/methodmissing for Open Source contributions.
 
-![Profile picture](https://github.com/methodmissing/call-for-proposals/raw/master/example/profile_picture.jpg)
+![Profile picture](https://github.com/methodmissing/call-for-proposals/raw/lourens_naude-native_extensions_how_does_it_work/example/profile_picture.jpg)
 
 - [My website](http://www.methodmissing.com)
 - [My twitter](https://twitter.com/#!/methodmissing)
