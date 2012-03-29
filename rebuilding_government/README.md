@@ -4,7 +4,7 @@ Starting in February 2010 a small group of developers, designers and product thi
 
 A key design principle has been "tools over content"; with an in-house team we can be a lot more creative than simply implementing a content management system. Instead we're focussed on providing citizens with clear, simple, appropriate guidance and utilities. That's had a huge impact on our architecture, sometimes good and sometimes less so. This talk will explore some of the trade-offs and what we're doing to simplify in the midst of growing attention, requirements and pace.
 
-Along the way I'll also cover some of the lessons learned from scaling our team fast, and practicing continuous delivery in a unique context and especially risk-averse world.
+Along the way I'll also cover some of the lessons learned from scaling our team fast, baking in security practices, and practicing continuous delivery in a unique and especially risk-averse world.
 
 ## James Stewart
 
@@ -14,3 +14,10 @@ James Stewart is a software developer based in London with his wife and two smal
 
 - [Blog](http://jystewart.net)
 - [Twitter](http://twitter.com/jystewart)
+
+
+## Jordan Hatch
+
+Jordan Hatch is a young-ish Ruby developer, almost based in London. He's a developer at the Government Digital Service, working on the cross-proposition team for the GOV.UK beta. He tweets at [@1jh](http://twitter.com/1jh).
+
+![Profile picture](http://farm7.staticflickr.com/6141/6012987592_f92e29cf92_b_d.jpg)
