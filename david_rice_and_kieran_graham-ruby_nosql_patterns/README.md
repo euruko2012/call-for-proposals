@@ -13,3 +13,7 @@ Loves interesting solutions to problems and is a science/ruby/whiskey/javascript
 - [Past talk slides](http://speakerdeck.com/u/davidjrice)
 
 ## Kieran Graham
+
+...
+
+![Profile picture](https://github.com/kierangraham/call-for-proposals/raw/63d19f35e2876b0dc328b9a91b2471b50876102b/david_rice_and_kieran_graham-ruby_nosql_patterns/profile_picture_kieran.png)
