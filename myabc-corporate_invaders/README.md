@@ -25,7 +25,7 @@ The foundations of the “Corporate OS” is a workflow engine. We will explore 
 
 ### Ruote, a Workflow Engine for Ruby
 
-Specificly we'll look into [Ruote], the Ruby Workflow Engine. Ruote bills itself as an 'operating system for business processes'. This is the Kernel on whhich we build.
+Specificly we'll look into [Ruote], the Ruby Workflow Engine. Ruote bills itself as an 'operating system for business processes'. This is the Kernel on which we build.
 
 ### A place in a Service Oriented Architecture
 
