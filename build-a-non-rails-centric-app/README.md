@@ -32,8 +32,7 @@ and revelations and lastly, is this a viable thing to do?
 ## Anuj Dutta
 
 I am a freelance software developer, currently working with ruby and
-rails. I am an Open source enthusiast. I love working with ruby and
-rails.  
+rails. I am an open source enthusiast and passionate about my work.
 
 
 ![Profile picture](https://github.com/euruko2012/call-for-proposals/raw/master/example/profile_picture.jpg)
