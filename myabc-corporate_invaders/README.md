@@ -66,6 +66,8 @@ When not writing code, Alex has also been involved with the community in other w
 - Past talk slides
   - [wroclove.rb 2012 Lightning Talk](http://wrocloverb.alexbcoles.com/)
   - [Ruby Conf Argentina 2011](http://rubyconfar2011.alexbcoles.com/)
+- Past talk video
+  - [Ruby Conf Argentina 2011](http://vimeo.com/38561145) 
 
 
 [@pvisintin]:https://twitter.com/#!/pvisintin
