@@ -1,9 +1,26 @@
 # Corporate Invaders
+## Building a “Corporate Operating System” with Ruby
 
 _Joint talk by Pedro Visintin ([@pvisintin]) and Alex Coles ([@myabc])_
 
 
-My talk description
+**No. Not Corporate Raiders. [Gordon Gekko](http://en.wikipedia.org/wiki/Gordon_Gekko) stays at the door.**
+
+Is this you?
+
+- You want a system that lets you manage (and evolve) your business processes as easily as UNIX processes, but don't want to write a check to [Big Blue](http://en.wikipedia.org/wiki/Gordon_Gekko).
+- You hate the word Corporate, but love big, ambitious and technically demanding projects.
+- You want to use Ruby.
+
+Based on our personal experiences building a platform for Visa cards, we'll be taking a tour of the components you need to build the perfect “Corporate Operating System”.
+
+### Ruote Workflow Engine
+
+Ruote describes itself as an 'operating system for business processes'. We'll explain why you might want to look beyound state machines and start looking workflow engines.
+
+### Messaging vs. REST APIs
+
+We use REST and love it, but we'll discuss when you may be better off with messaging.
 
 
 ## Pedro Visintin
