@@ -48,7 +48,7 @@ If your business processes are noe real-time, your user interface shouldn't be a
 
 Pedro Visintin ([@pvisintin]) is the CTO of Payango GmbH and the community manager of the Dice Ruby on Rails Talent Community. He started as a developer working with mostly mainstream technologies for Web development, and was a lead developer and designer of one of the most advanced home banking platforms at Banco Galicia. After working as a software architect, he started learning Ruby and Ruby on Rails. He is also a punk rock musician. Originally from Buenos Aires, he now lives in Berlin.
 
-![Profile picture - Pedro](https://github.com/myabc/call-for-proposals/raw/myabc-corporate_invaders/myabc-corporate_invaders/profile_picture_pedro.png)
+![Profile picture - Pedro](https://github.com/myabc/call-for-proposals/raw/myabc-corporate_invaders/myabc-corporate_invaders/profile_picture_pedro.jpg)
 
 - [Blog articles](http://news.dice.com/author/peteronrails/)
 - [My twitter](https://twitter.com/#!/pvisintin)
@@ -59,7 +59,7 @@ Alex Coles ([@myabc]) is the Lead Developer of Payango GmbH. He’s active in th
 He’s also contributed extensively to many other projects including RefineryCMS, Friendly ID and RakeCompiler.
 When not writing code, Alex has also been involved with the community in other ways – last year he organised eurucamp, an unconference for those who were unable to get tickets to EuRuKo in Berlin.
 
-![Profile picture - Alex](https://github.com/myabc/call-for-proposals/raw/myabc-corporate_invaders/myabc-corporate_invaders/profile_picture_alex.png)
+![Profile picture - Alex](https://github.com/myabc/call-for-proposals/raw/myabc-corporate_invaders/myabc-corporate_invaders/profile_picture_alex.jpg)
 
 - [My website](http://alexbcoles.com/)
 - [My twitter](https://twitter.com/#!/myabc)
