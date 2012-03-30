@@ -20,7 +20,7 @@ A recovering Physics graduate, Ben now spends approximately 25 hours per day sli
 
 Ben is on the Adhearsion core team and has been leading the development of Adhearsion 2.0, the next major evolution of the framework and in 3PCC in Ruby. Ben works primarily for Mojo Lingo LLC, architecting voice applications and the technology used to build them.
 
-![Profile picture](https://github.com/euruko2012/call-for-proposals/raw/master/ben_langfeld-infiltrating_telecoms_with_ruby/profile_picture.jpg)
+![Profile picture](https://github.com/benlangfeld/call-for-proposals/raw/master/ben_langfeld-infiltrating_telecoms_with_ruby/profile_picture.jpg)
 
 - [My website](http://www.langfeld.me)
 - [My twitter](https://twitter.com/#!/benlangfeld)
