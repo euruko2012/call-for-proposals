@@ -22,7 +22,7 @@ Dane Harrigan is an Engineer at Heroku. When he's not coding at work,
 he's building gems you've never heard of or contributing to projects you
 have such as Rubinius, Radiant CMS or the Heroku Gem.
 
-![Profile picture](https://github.com/daneharrigan/call-for-proposals/raw/master/example/profile_picture.jpg)
+![Profile picture](https://github.com/daneharrigan/call-for-proposals/raw/rubinius_building_ruby_has_never_been_easier/dane_harrigan-rubinius_building_ruby_has_never_been_easier/profile_picture.jpg)
 
 - [My website](http://dane.heroku.com)
 - [My twitter](https://twitter.com/#!/daneharrigan)
