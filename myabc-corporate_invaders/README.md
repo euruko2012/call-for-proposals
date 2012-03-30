@@ -23,6 +23,10 @@ Based on our personal experiences building a platform for prepaid credit cards, 
 
 The foundations of the “Corporate OS” is a workflow engine. We will explore the concepts of async and what we've termed, **offline processing**. We'll explain why you might want to look beyond the State Machine, and start looking at the Workflow Engine.
 
+### Integrating with external and internal apps.
+
+This is not a perfect world, networked distributed systems has to be designed to handle downtimes and failures and orchestrate and take decision when something goes wrong and provide as functionality as possible to the final user.
+
 ### Ruote, a Workflow Engine for Ruby
 
 Specificly we'll look into [Ruote], the Ruby Workflow Engine. Ruote bills itself as an 'operating system for business processes'. This is the Kernel on which we build.
