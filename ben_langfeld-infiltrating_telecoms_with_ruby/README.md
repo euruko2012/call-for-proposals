@@ -1,5 +1,7 @@
 # Infiltrating Telecoms using Ruby
 
+Telecoms suck. They're complex, archaic, opaque and closed. Everything we OSS hackers hate. But what can we do about it? It turns out, quite a lot, and tools like Adhearsion can help.
+
 Many open source hackers see the allure of building applications that integrate with the telephone network. However layers of industry jargon, proprietary technology and arcane knowledge lead many to believe that telephony is "hard". Ruby and Adhearsion will change their minds: combining this modern, powerful and descriptive programming language with development practices not common in the Telecoms world (like TDD, Agile), Adhearsion allows developers to apply tools and skills they already have to this rich domain.
 
 The Adhearsion project is a voice application development framework, the first of its kind in the open source world. Additionally, Adhearsion 2.0 is here; a major evolution of the framework to support multiple VoIP platforms and better application designs.
