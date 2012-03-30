@@ -17,7 +17,7 @@ of the solution from idea to regularly( aka. weekly) deployment.  Briefly lookin
 use lot of time in front of the pc doing application development. Daytime it - consultant and night time
 rubyist.
 
-![Profile picture](https://github.com/euruko2012/call-for-proposals/raw/master/example/profile_picture.jpg)
+![Profile picture](https://github.com/leffen/call-for-proposals/blob/master/leif%20terje%20fonne%20-%20Sinatra%20full%20cirle/profile_picture.jpg)
 
 - [My website](http://leffen.net)
 - [My twitter](https://twitter.com/#!/leffen)
