@@ -43,11 +43,13 @@ In order to be successful they need to be consistent, persistent and smart about
 The hard part lies in designing a routine that is challenging, effective and interesting enough to make sure you will still follow it after few weeks.
 
 During the talk I'm going to show 
-- how can we design a routine like that
-- how one can measure her own progress
-- how can we engineer our habits to make sticking to the routine easier
+
+* how can we design a routine like that
+* how one can measure her own progress
+* how can we engineer our habits to make sticking to the routine easier
 
 I have three primary goals for the talk:
+
 1. To inspire fellow programmers to push their skills to the next level.
 2. To start a discussion about necessity of practice related to professionalism.
 3. To start a movement of programming workout so we can have supportive and competitive community that will facilitate growing of our skills.
