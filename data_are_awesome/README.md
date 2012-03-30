@@ -4,23 +4,23 @@ Tracking easy metrics is easy.  Tracking useful activity in your app, on the oth
 
 In this talk, I'll review working with metrics from start to finish:
 
-* Storing knowledge: what data to store, and how to store it.  (tl;dr: it's mostly obvious, but filled with gotchas -- it's hard to backfill info you wish you'd collected.)
+* Storing knowledge: what data to store, and how to store it.  (tl;dr: it's mostly obvious, but filled with gotchas, and it's hard to backfill info you wish you'd been collecting.)
 * Asking questions: figuring out what you want to know, and how to ask those questions to your data. (tl;dr: top-line data like user growth can be deceiving; constructing queries is hard but fun.)
 * Getting answers: using tools like map/reduce to turn data into answers. (tl;dr: map/reduce is great once you get your head around it, and you can write code to make adding queries and exporting the results easy.)
 
-The presentation will draw from my experience building Wunderkit, an app with deeply integrated metrics, as well as designing Facebook applications for clients at Context Optional.  Though the code examples given will focus on Rails and on map/reduce using Mongo, most of the ideas will be general and portable.  
+The presentation will draw from my experience building [Wunderkit](http://wunderkit.com/) at 6Wunderkinder, an app with deeply integrated metrics, as well as designing Facebook applications for Fortune 500 clients at Context Optional.  Though the code examples given will focus on Rails and on map/reduce using Mongo, most of the ideas will be general and portable.  
 
 
 ### Notes to the Talk
 
-There's a lot of data in here, and I'd welcome feedback on whether to focus it more on the mechanics of map/reduce (providing a longer intro and more code examples) or of walking through the entire topic and focusing just as much on how to log the data (and what data to log) and identifying the right questions to ask.
+There's a lot of information in here, and I'd welcome feedback on whether to focus it more on the mechanics of map/reduce (providing a longer intro and more code examples) or of walking through the entire topic and focusing just as much on how to log the data (and what data to log) and identifying the right questions to ask.
 
-In addition to providing code examples (see the [map/reduce framework](https://github.com/arsduo/call-for-proposals/blob/master/data_are_awesome/map_reduce_framework.js)), I plan to provide at least one or two interesting metrics from Wunderkit and the code used to map them; the exact details of that will have to be worked out later.  The code referenced will be released as an open-source toolkit later.
+In addition to providing code examples (see the [map/reduce framework](https://github.com/arsduo/call-for-proposals/blob/master/data_are_awesome/map_reduce_framework.js)), I'd like to provide at least one or two interesting public metrics from Wunderkit and the code used to generate them.  The framework code referenced should be released as an open-source toolkit at some point soon.
 
 Finally, I'll touch briefly on related topics like safeguarding user privacy, tracking server-level log data, and integrating into Rails, though mostly just acknowledging them in passing.
 
 
-## Alex Koppel
+### Alex Koppel
 
 An enthusiastic Rubyist with a secret love for Javascript, an amateur cook, a book reader, social network expert, and inveterate tinkerer.  He's the author of Koala, an Facebook gem, and several smaller open-source projects, and currently spends his days (and some nights) playing with new technology and building productivity software at 6Wunderkinder in Berlin.  Over the course of over 200,000 miles flown (first as a healthcare IT consultant and then as a migrant), he's met a lot of interesting people and learned a lot of random things, and likes few things better than a fresh beer in a new bar with good company.  
 
