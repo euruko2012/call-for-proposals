@@ -22,7 +22,7 @@ elcuervo is an old school coder that enjoys complex problems and simple solution
 
 Worked in telecom too much time, learned about different async protocols and became a workaholic now I've decided to give some talks to have fun and share my experiences. A clown in disguise who wants people to have fun and learn.
 
-![Profile picture](https://github.com/elcuervo/call-for-proposals/raw/master/the-future-is-dead/profile_picture.jpg)
+![Profile picture](https://github.com/elcuervo/call-for-proposals/raw/master/bruno-aguirre_the-future-is-dead/profile_picture.jpg)
 
 - [My website](http://elcuervo.co)
 - [My twitter](https://twitter.com/#!/cuerbot)
