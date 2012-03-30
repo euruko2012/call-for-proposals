@@ -41,7 +41,7 @@ We use (and love) REST. But what happens when one of your backend processing nod
 
 ### Visualizing your business with real-time data
 
-If your business processes are noe real-time, your user interface shouldn't be a limiting factor. We'll show how to use combine [Faye] and Websockets to see what's running, in real-time.
+If your business processes are real-time, your user interface shouldn't be a limiting factor. We'll show how to use combine [Faye] and Websockets to see what's running, in real-time.
 
 
 ## Pedro Visintin
