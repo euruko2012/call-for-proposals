@@ -26,6 +26,7 @@ The foundations of the “Corporate OS” is a workflow engine. We will explore 
 ### Integrating with external and internal apps
 
 This is not a perfect world. Networked, distributed systems have to be designed to handle downtimes and failures. When something does go wrong, they need to orchestrate and take decisions, while providing much as functionality as possible to the final user.
+When you're designing monolithic systems, you usually design for success. We'll show examples of how to design for failure.
 
 ### Ruote, a Workflow Engine for Ruby
 
