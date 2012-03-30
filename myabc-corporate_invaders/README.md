@@ -8,19 +8,37 @@ _Joint talk by Pedro Visintin ([@pvisintin]) and Alex Coles ([@myabc])_
 
 Is this you?
 
-- You want a system that lets you manage (and evolve) your business processes as easily as UNIX processes, but don't want to write a check to [Big Blue](http://en.wikipedia.org/wiki/Gordon_Gekko).
-- You hate the word Corporate, but love big, ambitious and technically demanding projects.
+- You need to develop a system that automates large parts of your business. Be it selling airline tickets or books.
+- You want a system that lets you manage (and evolve) your business processes as easily as UNIX processes, but don't want to write a check to [Big Blue](http://en.wikipedia.org/wiki/IBM).
+- You hate the words Corporate and Enterprise, but love working on big, ambitious and technically demanding projects.
 - You want to use Ruby.
 
-Based on our personal experiences building a platform for Visa cards, we'll be taking a tour of the components you need to build the perfect “Corporate Operating System”.
 
-### Ruote Workflow Engine
+Based on our personal experiences building a platform for prepaid credit cards, we'll be taking a tour of the components you need to build the perfect “Corporate OS”.
 
-Ruote describes itself as an 'operating system for business processes'. We'll explain why you might want to look beyound state machines and start looking workflow engines.
+### The Workflow Engine
 
-### Messaging vs. REST APIs
+The foundations of the “Corporate OS” is a workflow engine. We will explore the concepts of async and what we've termed, **offline processing**. We'll explain why you might want to look beyond the State Machine, and start looking at the Workflow Engine.
 
-We use REST and love it, but we'll discuss when you may be better off with messaging.
+### Ruote, a Workflow Engine for Ruby
+
+Specificly we'll look into [Ruote], the Ruby Workflow Engine. Ruote bills itself as an 'operating system for business processes'. This is the Kernel on whhich we build.
+
+### A place in a Service Oriented Architecture
+
+Your system might have backend nodes with various responsibilities, along with many front-ends and clients – with different rules for each. We'll talk about the different ways to keep rules flexible.
+
+### Keeping your backends dumb
+
+We'll also suggest you why you want to keep your backend nodes as simple and dumb as possible.
+
+### Messaging vs. REST APIs in a Service Oriented Architecture
+
+We use (and love) REST. But what happens when one of your backend processing nodes goes down? There are times you're better off with messaging. We'll discuss why.
+
+### Visualizing your business with real-time data
+
+If your business processes are noe real-time, your user interface shouldn't be a limiting factor. We'll show how to use combine [Faye] and Websockets to see what's running, in real-time.
 
 
 ## Pedro Visintin
@@ -47,5 +65,7 @@ When not writing code, Alex has also been involved with the community in other w
   - [Ruby Conf Argentina 2011](http://rubyconfar2011.alexbcoles.com/)
 
 
-[@pvisintin]:(https://twitter.com/#!/pvisintin)
-[@myabc]:(https://twitter.com/#!/myabc)
+[@pvisintin]:https://twitter.com/#!/pvisintin
+[@myabc]:https://twitter.com/#!/myabc
+[Ruote]:http://ruote.rubyforge.org/
+[Faye]:http://faye.jcoglan.com/
