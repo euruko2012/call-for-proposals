@@ -35,7 +35,7 @@ I am a freelance software developer, currently working with ruby and
 rails. I am an open source enthusiast and passionate about my work.
 
 
-![Profile picture](https://github.com/euruko2012/call-for-proposals/raw/master/example/profile_picture.jpg)
+![Profile picture](https://github.com/andhapp/call-for-proposals/blob/master/build-a-non-rails-centric-app/profile_picture.jpg)
 
 - [My website](http://www.andhapp.com)
 - [My twitter](https://twitter.com/#!/andhapp)
