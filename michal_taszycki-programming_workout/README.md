@@ -65,7 +65,7 @@ Since videos from wroclove.rb conference are not ready yet. I've included short 
 
 ## Michał Taszycki
 
-After leaving the corporate universe and developing a few computer games (like [Motorstorm](http://www.mobygames.com/game/ps3/motorstorm) or [Saints Row 2](http://www.mobygames.com/game/windows/saints-row-2)) for the PS3, XBOX and PC, Michał entered the Ruby World. Today, he makes delicious software at [Applicake](http://applicake.com), manages projects and trains fellow programmers during Code Retreats. Michał enjoys pushing people out of their comfort zones and into new rewarding experiences. He can also talk for hours about how seemingly unrelated skills (such as running, dancing, hand balancing or juggling) can help you become a better programmer.
+After leaving the corporate universe and developing a few computer games (like [Motorstorm](http://www.mobygames.com/game/ps3/motorstorm) or [Saints Row 2](http://www.mobygames.com/game/windows/saints-row-2)) for the PS3, XBOX and PC, Michał entered the Ruby World. Today, he makes delicious software at [Applicake](http://applicake.com), manages projects and trains fellow programmers during [Code Retreats](http://www.flickr.com/photos/71470546@N08/sets/72157628278787087/with/6454903049/). Michał enjoys pushing people out of their comfort zones and into new rewarding experiences. He can also talk for hours about how seemingly unrelated skills (such as running, dancing, hand balancing or juggling) can help you become a better programmer.
 
 ![Profile picture](https://github.com/mehowte/call-for-proposals/raw/master/michal_taszycki-programming_workout/profile_picture.jpg)
 
