@@ -2,7 +2,7 @@
 
 ## The Elevator Pitch
 
-Should Rails the centre of your app? Do you spend more time worrying
+Should Rails be the centre of your app? Do you spend more time worrying
 about the framework than your business? if yes, then this is the talk
 for you. If no, it'll be nice to know and interact with people on the
 other side of the coin.
@@ -19,10 +19,10 @@ mostly part-time. I wrote it with Rails at the centre and wasn't happy
 about the some of the code-base and the whole testing times. I wouldn't 
 call myself a TDD fascist but I do like to approach a probelm from TDD 
 perspective and it gets annoying if anything gets in the way. The use of 
-Spork or Spin just for faster tests just felt wrong.
+Spork or Spin just for faster tests felt wrong.
 
-I was eager to improve it and make it better and then one then one fine 
-morning, I decided to give it a major refactor, or like
+I was eager to improve it and make it better and just didn't know how.
+Then one then one fine morning, I decided to give it a major refactor, or like
 some say rewrite. This talk will take you through my journey through
 this unknown terrain. My intention is to share my thoughts before I
 embarked on this project, what influenced and motivated me, my findings
