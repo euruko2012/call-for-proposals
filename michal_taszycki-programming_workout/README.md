@@ -42,11 +42,11 @@ In order to be successful they need to be consistent, persistent and smart about
 
 The hard part lies in designing a routine that is challenging, effective and interesting enough to make sure you will still follow it after few weeks.
 
-During the talk I'm going to show 
+During the talk I'm going to show: 
 
-* how can we design a routine like that
-* how one can measure her own progress
-* how can we engineer our habits to make sticking to the routine easier
+* how can we design a routine like that,
+* how one can measure her own progress and
+* how can we engineer our habits to make sticking to the routine easier.
 
 I have three primary goals for the talk:
 
