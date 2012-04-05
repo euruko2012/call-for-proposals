@@ -1,10 +1,10 @@
-# ascii.io: No nonsense termcasting for developers
+# ascii.io: No nonsense asciicasting for serious hackers
 
-In this talk I would present new tool in developers' arsenal: ascii.io (soon to be released).
+In this talk I would present new tool in developers' arsenal: http://ascii.io.
 
-ascii.io is a tool to record your terminal session as an "asciicast" and show it to the world with web based player. But wait! It uses no video, no codecs and other stuff that you have on your mind. It's all text (and few ANSI escape sequences). With it, you can record Vim tutorial and upload it within few seconds (as it weights only couple of kilobytes) with single command. You can record "animated" bug report showing how some new gem crashes when you press some funky key combo and paste a link in your github issue. Possibilities are endless.
+http://ascii.io is a tool to record your terminal session as an "asciicast" and show it to the world with web based player. But wait! It uses no video, no codecs and other stuff that you have on your mind. It's all text (and few ANSI escape sequences). With it, you can record Vim tutorial and upload it within few seconds (as it weights only couple of kilobytes) with single command. You can record "animated" bug report showing how some new gem crashes when you press some funky key combo and paste a link in your github issue. Possibilities are endless.
 
-Why this might be interesting to Ruby developers? The site is written in Rails, asciicast player is written in CoffeeScript and is specced with Jasmine. The presentation is a combination of "official release announcement" + "how we build it" case study.
+Why this might be interesting to Ruby developers? The whole service is built from many parts written in many languages but the center of the whole platform is a Ruby on Rails app that glues everything together. It's an interesting example of use of many unusual techniques (one example: using tmux in Resque background jobs for thumbnail/preview generation O\_o, how cool is that?). The presentation will show you why (and how) you should use tools from outside of Ruby ecosystem in your Ruby apps.
 
 ## Marcin Kulik
 
