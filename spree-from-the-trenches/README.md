@@ -13,7 +13,7 @@ The following subjects will be addressed:
 
 Peter is an early Spree adopter, launched a SpreeCommerce web-shop for a client back in 2008, and wrote a number of extensions. Static Content was the first and the most popular one. It's even an official Spree extension now. Currently he is the owner of PeRo ICT Solutions, a agile web-development company that is focusing on Spree implementation and development. Early 2012 he launched [SpreeCasts](http://spreecasts.org) where he is sharing Spree knowledge through screencasts. At the time of this writing he is developing a new web-shop for a home couture company in Amsterdam. This development process, among others, will be the source of his talk.
 
-![Profile picture](https://github.com/peterberkenbosch/call-for-proposals/blob/master/spree-from-the-trenches/profile_picture.jpg)
+![Profile picture](https://github.com/peterberkenbosch/call-for-proposals/raw/5c644f976d8805e01386b600faee59c8c4997921/spree-from-the-trenches/profile_picture.jpg)
 
 - [Personal Blog](http://www.peterberkenbosch.nl)
 - [PeRo ICT Solutions](http://www.pero-ict.nl)
