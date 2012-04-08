@@ -11,7 +11,7 @@ Based on my experience in front-end in general and Haml, Sass/Compass and Coffee
 
 Things to cover: how does the HTML5 document outline help with creating reusable chunks of code, how to structure your HTML and Sass in a way that enables reusing "modules" and how to bind JavaScript events without tying your JS too closely to your HTML and CSS. I'll touch on the asset pipeline too.
 
-I will be giving this talk at [wroc_love.rb](http://wrocloverb.com/) in Wroclaw, Poland and [RubyNation](http://www.rubynation.org/) in Reston, VA (USA) in March (other conferences pending, none in The Netherlands).
+I have given this talk at [wroc_love.rb](http://wrocloverb.com/) in Wroclaw, Poland and [RubyNation](http://www.rubynation.org/) in Reston, VA (USA) in March (other conferences pending, none in The Netherlands). Video from Wroc_love.rb (30 minute version): http://www.youtube.com/watch?v=T6-75HdADc8
 
 
 ## Roy Tomeij
