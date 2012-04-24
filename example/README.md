@@ -13,4 +13,3 @@ My bio
 - [My twitter](https://twitter.com/#!/twitter_handle)
 - [Past talk slides](http://www.example.org)
 - [Past talk video](http://www.example.org)
-
